@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2021.<br>
-📚 I'm currently learning Python with the Scrapy framework and web design (you can check out my website for that as well).<br>
+📚 I'm currently learning Python with the Scrapy framework and web design (you can check out my website for that as well, don't worry about language you can change it with a button that says "Idioma" but not all is already translated because it's kind of hard).<br>
 🎯 Goals: Creating a web scraper with AI integration using various technologies like Python, Flutter, and Go to provide a great experience for users.<br>
 🎲 Fun fact: I actually use GitHub as a social media platform, reading repositories to inspire myself.
 </p>
