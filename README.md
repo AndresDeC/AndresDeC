@@ -2,27 +2,39 @@
 
 ###
 
-<p align="left">My name is Andrés and I'm a developer in web and Python, from Mexico</p>
+<p align="left">My name is Andrés, and I'm a web and Python developer from Mexico.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python with the Scrapy framework and web design (you can checkout my website for that as well)<br>🎯 Goals: Creating a web Scraper with AI integrated using various technologies like Python, Flutter and Go to create a great expirience for the users<br>🎲 Fun fact: I actually use Github as a social media reading repos to inspire my self</p>
+<p align="left">
+✨ Creating bugs since 2021.<br>
+📚 I'm currently learning Python with the Scrapy framework and web design (you can check out my website for that as well).<br>
+🎯 Goals: Creating a web scraper with AI integration using various technologies like Python, Flutter, and Go to provide a great experience for users.<br>
+🎲 Fun fact: I actually use GitHub as a social media platform, reading repositories to inspire myself.
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I Code With</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
 </div>
+
+###
+
+<p align="left">
+I'm also currently working on creating developer groups in my area to support open-source projects and secure third-party donations to help initiatives grow. The goal is to build a strong developer community in Monterrey—one that contributes to society for free while gaining experience and knowledge.
+</p>
+
 
