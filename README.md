@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2021.<br>
-📚 I'm currently learning Python with the Scrapy framework and web design (you can check out my website for that as well, don't worry about language you can change it with a button that says "Idioma" but not all is already translated because it's kind of hard).<br>
+📚 I'm currently working on apps that sove problems and can make a business, making also good open soruce code and contributing to the open source community.<br>
 🎯 Goals: Becoming a developer that inspires others especially in developing nations, creating a vibrant community in my city and country, creating also apps for business and soving problems with technology especially AI.<br>
 🎲 Fun fact: I actually use GitHub as a social media platform, reading repositories to inspire myself.
 </p>
@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
 </div>
